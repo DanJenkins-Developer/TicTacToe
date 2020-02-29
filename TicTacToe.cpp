@@ -4,7 +4,7 @@
 // Tic Tac Toe Project
 //
 // 02/27/2020
-//Hello There
+//
 #include <iostream>
 #include <string>
 #include "TicTacToe.h"
